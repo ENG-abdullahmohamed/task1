@@ -80,7 +80,7 @@ nav a{
 
 nav a:hover,
 .active {color:#33ccff;
-text-decoration: underline;position: absolute;
+text-decoration: underline;
 }
 .hero{
   display: flex;

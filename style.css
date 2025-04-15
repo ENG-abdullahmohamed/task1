@@ -78,11 +78,10 @@ nav a{
   padding: 0px 25px;
 }
 
-nav a:hover ,
-.active {color:rgb(74,207,238);text-decoration: underline;
-  position: absolute
+nav a:hover,
+.active {color:#ff;
+text-decoration: underline;
 }
-
 .hero{
   display: flex;
   align-items: center;

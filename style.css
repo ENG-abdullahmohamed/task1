@@ -79,9 +79,7 @@ nav a{
 }
 
 nav a:hover ,
-.active {
-  color : #ff0000;
-  text-decoration: underline;
+.active {color:#4acfee;text-decoration: underline;
   position: absolute
 }
 

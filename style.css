@@ -79,8 +79,8 @@ nav a{
 }
 
 nav a:hover,
-.active {color:RGB (74, 207, 238);
-text-decoration: underline;
+.active {color:#33ccff;
+text-decoration: underline;position: absolute;
 }
 .hero{
   display: flex;

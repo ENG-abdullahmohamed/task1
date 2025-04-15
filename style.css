@@ -82,6 +82,7 @@ nav a:hover ,
 .active {
   color : #ff0000;
   text-decoration: underline;
+  position: absolute
 }
 
 .hero{
